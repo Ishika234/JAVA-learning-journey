@@ -1,4 +1,4 @@
-public class DataTypes-03 {
+public class DataTypes{
 
 	public static void main(String[] args) {
 		
@@ -18,5 +18,10 @@ public class DataTypes-03 {
         System.out.println("short: " + shortNum);
         System.out.println("int: " + intNum);
         System.out.println("long: " + longNum);
-  }
+        System.out.println("float: " + floatNum);
+        System.out.println("double: " + doubleNum);
+        System.out.println("char: " + letter);
+        System.out.println("boolean: " + isJavaFun);
+	}
+
 }
