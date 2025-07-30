@@ -1,4 +1,4 @@
-# java‑learning‑journey-
+# java‑learning‑journey
 
 A hands‑on repository tracking my progression from Java basics to advanced topics through code examples, notes, and mini‑projects.
 
